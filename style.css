@@ -3,4 +3,6 @@
 	height: 200px;
 	background: #ccc;
 	margin: 100px auto;
+	border: 4px dotted #000;
+	box-shadow: 0 0 50px red;
 }
