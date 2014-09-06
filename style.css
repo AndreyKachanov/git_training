@@ -15,3 +15,16 @@
 	font: bold 70px Verdana;
 	color: red;
 }
+
+#wrapper p {
+	font: bold 30px Verdana, sans-serif;
+	color: #835;
+	text-align: center;
+	text-shadow: 0 0 50px gold;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#wrapper a {
+	color: inherit;
+}
