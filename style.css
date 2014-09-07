@@ -32,3 +32,15 @@ body {
 	color: inherit;
 	text-decoration: none;
 }
+
+#conflict {
+	width: 550px;
+	margin: 60px auto 0 auto;
+	border: 2px dotted #fff;
+}
+
+#conflict h3 {
+	color: #fff;
+	text-align: center;
+	font: bold 22px Verdana, sans-serif;
+}
