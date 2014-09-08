@@ -37,9 +37,12 @@ body {
 	width: 550px;
 	margin: 60px auto 0 auto;
 	border: 2px dotted #fff;
+	background: #321;
 }
 
 #conflict h4 {
+	margin: 30px;
+	padding: 0;
 	color: rgb(62, 241, 62);
 	text-align: center;
 	font: bold 22px Verdana, sans-serif;
